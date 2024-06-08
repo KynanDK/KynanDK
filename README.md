@@ -1,18 +1,27 @@
 
 ```math
-\ce{$\unicode[goombafont;
-color:red;
+\ce{$\unicode[
+Segoe UI Variable Display;
 pointer-events: none;
 position: fixed;
 top: 0;
 left: 0;
+z-index: -10;
 height: 100vh;
-width: 100vh;
-object-fit: cover;
-background-size: cover;
-background-position: center center;
-background-repeat: no-repeat;
 width: 100vw;
-background: linear-gradient(to right, rgba(255, 255, 255, 0.2) 1px, transparent 1px), linear-gradient(to bottom, rgba(255, 255, 255, 0.2) 1px, transparent 1px);background-size: 4rem 4rem;]{x0000}$}
+    background: linear-gradient(to right,
+    hsl(0, 100%, 50%) 0%,
+    hsl(30, 100%, 50%) 10%,
+    hsl(60, 100%, 50%) 20%,
+    hsl(90, 100%, 50%) 30%,
+    hsl(120, 100%, 50%) 40%,
+    hsl(150, 100%, 50%) 50%,
+    hsl(210, 100%, 50%) 60%,
+    hsl(240, 100%, 50%) 70%,
+    hsl(270, 100%, 50%) 80%,
+    hsl(300, 100%, 50%) 90%,
+    hsl(330, 100%, 50%) 95%,
+    hsl(360, 100%, 50%) 100%) 0 0;
+]{x0000}$}
 ```
-meow :3
+#MEOWMEOWMEOW
