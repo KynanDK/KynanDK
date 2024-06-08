@@ -2,11 +2,14 @@
 ```math
 \ce{$\unicode[
 Segoe UI Variable Display;
-pointer-events: none;
 position: fixed;
+border-radius: 1rem;
+border: black 10px solid;
+cursor: crosshair;
+opacity: 0.5;
 top: 0;
 left: 0;
-z-index: -10;
+z-index: -10000;
 height: 100vh;
 width: 100vw;
     background: linear-gradient(to right,
@@ -24,4 +27,4 @@ width: 100vw;
     hsl(360, 100%, 50%) 100%) 0 0;
 ]{x0000}$}
 ```
-#MEOWMEOWMEOW
+***This... should not be happening***
